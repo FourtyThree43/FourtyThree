@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **LUMINARIES**
 
-- 🌱 I’m currently learning **ALX**
+- 🌱 I’m currently learning  **__**
 
 - 💬 Ask me about **Python, C**
 
